@@ -15,7 +15,7 @@ Instalar os pacotes usando npm install.
 Para executar o projeto utilize o npm dev, ou npm start. 
 
 Para logar como usuário, cadastre-se na página Criar Conta.
-Para logar como administrador use o login: admin@email.com senha 123.
+Para logar como administrador use o login: admin@email.com senha: 123.
 
 Link do Deploy:
-https://food-explorerv2-rs.netlify.app
+https://foodexplorertm.netlify.app/
